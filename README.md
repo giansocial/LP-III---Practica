@@ -1,2 +1,2 @@
-# LP-III - Practica
+# LP III - Practica
 Proyectos del curso
